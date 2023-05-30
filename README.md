@@ -9,7 +9,9 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Install](#install)
   - [Usage](#usage)
+  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -90,7 +92,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder: git@github.com:binyamolango/Hello-Microverse.git
+Clone this repository to your desired folder: using this link https://github.com/binyamolango/Hello-Microverse.git
 
 <!--
 Example commands:
@@ -100,11 +102,11 @@ Example commands:
   git clone git@github.com:myaccount/my-project.git
 ```
 --->
-<!-- 
+
 ### Install
 
-Install this project with:  -->
-<!--  -->
+Install this project with: local git command
+
 <!--
 Example command:
 
@@ -126,9 +128,9 @@ Example command:
 ```
 --->
 
-<!-- ### Run tests
+### Run tests
 
-To run tests, run the following command: -->
+To run tests, run the following command: vi <filename>
 
 <!--
 Example command:
