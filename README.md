@@ -130,7 +130,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command: vi <filename>
+To run tests, run the following command: vi 'filename'
 
 <!--
 Example command:
