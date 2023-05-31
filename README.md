@@ -27,16 +27,19 @@ Hello-Microverse is a project that display a welcome message.
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
+> The tech stack that is used in this project is the combination of two technologies and both technologies are front-end(client-side) technologies. That means I haven't used any back-end language.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.microverse.org/">Microverse</a></li>
+    <li><a href="https://html.com/">HTML</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
   </ul>
 </details>
 
-<details>
+<!-- <details>
   <summary>Server</summary>
   <ul>
     <li><a href="#">Local</a></li>
@@ -48,7 +51,7 @@ Hello-Microverse is a project that display a welcome message.
   <ul>
     <li><a href="#">Local</a></li>
   </ul>
-</details>
+</details> -->
 
 <!-- Features -->
 
@@ -80,7 +83,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: You need to install git on your computer
+In order to run this project you need: a computer, mobile or tablet and you need to install and learn how to use necessary applications on your device like we browser
 
 <!--
 Example command:
@@ -130,7 +133,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command: vi 'index.html'
+To run tests, run the index.html file on your browser
 
 <!--
 Example command:
@@ -159,6 +162,8 @@ Example:
 👤 **Binyam Yohannes Olango**
 
 - GitHub: [@githubhandle](https://github.com/binyamolango)
+- Twitter: [@twitterhandle](https://twitter.com/BinyamOlango)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/binyam-y-olango-44869b268/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,6 +230,6 @@ I would like to thank my mentor Besufekad Alemu for helping me to accomplish thi
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+<!-- _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
