@@ -95,7 +95,9 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder: using this link https://github.com/binyamolango/Hello-Microverse.git
+Clone this repository to your desired folder: by using this command
+`cd 'desired folder'`
+`git clone https://github.com/binyamolango/Hello-Microverse.git`
 
 <!--
 Example commands:
@@ -108,7 +110,13 @@ Example commands:
 
 ### Install
 
-Install this project with: local git command
+Install this project with: 
+
+`npm install`
+
+Install Stylelint with:
+
+`npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x`
 
 <!--
 Example command:
@@ -133,7 +141,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the index.html file on your browser
+To run tests, run the index.html file on any browser
 
 <!--
 Example command:
